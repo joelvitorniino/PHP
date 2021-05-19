@@ -1,0 +1,13 @@
+{
+    "name": "joel/php",
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "^192.0"
+    },
+    "authors": [
+        {
+            "name": "joelvitorniino",
+            "email": "joelprofessor13@gmail.com"
+        }
+    ],
+    "require": {}
+}
